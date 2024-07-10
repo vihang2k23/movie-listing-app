@@ -1,0 +1,1 @@
+export const APIHost ='moviesdatabase.p.rapidapi.com';
